@@ -1,0 +1,149 @@
+PODS:
+  - agora_rtc_engine (6.5.1):
+    - AgoraIrisRTC_iOS (= 4.5.1-build.1)
+    - AgoraRtcEngine_iOS (= 4.5.1)
+    - Flutter
+  - AgoraInfra_iOS (1.2.13)
+  - AgoraIrisRTC_iOS (4.5.1-build.1)
+  - AgoraRtcEngine_iOS (4.5.1):
+    - AgoraRtcEngine_iOS/AIAEC (= 4.5.1)
+    - AgoraRtcEngine_iOS/AIAECLL (= 4.5.1)
+    - AgoraRtcEngine_iOS/AINS (= 4.5.1)
+    - AgoraRtcEngine_iOS/AINSLL (= 4.5.1)
+    - AgoraRtcEngine_iOS/AudioBeauty (= 4.5.1)
+    - AgoraRtcEngine_iOS/ClearVision (= 4.5.1)
+    - AgoraRtcEngine_iOS/ContentInspect (= 4.5.1)
+    - AgoraRtcEngine_iOS/FaceCapture (= 4.5.1)
+    - AgoraRtcEngine_iOS/FaceDetection (= 4.5.1)
+    - AgoraRtcEngine_iOS/LipSync (= 4.5.1)
+    - AgoraRtcEngine_iOS/ReplayKit (= 4.5.1)
+    - AgoraRtcEngine_iOS/RtcBasic (= 4.5.1)
+    - AgoraRtcEngine_iOS/SpatialAudio (= 4.5.1)
+    - AgoraRtcEngine_iOS/VideoAv1CodecDec (= 4.5.1)
+    - AgoraRtcEngine_iOS/VideoAv1CodecEnc (= 4.5.1)
+    - AgoraRtcEngine_iOS/VideoCodecDec (= 4.5.1)
+    - AgoraRtcEngine_iOS/VideoCodecEnc (= 4.5.1)
+    - AgoraRtcEngine_iOS/VirtualBackground (= 4.5.1)
+    - AgoraRtcEngine_iOS/VQA (= 4.5.1)
+  - AgoraRtcEngine_iOS/AIAEC (4.5.1)
+  - AgoraRtcEngine_iOS/AIAECLL (4.5.1)
+  - AgoraRtcEngine_iOS/AINS (4.5.1)
+  - AgoraRtcEngine_iOS/AINSLL (4.5.1)
+  - AgoraRtcEngine_iOS/AudioBeauty (4.5.1)
+  - AgoraRtcEngine_iOS/ClearVision (4.5.1)
+  - AgoraRtcEngine_iOS/ContentInspect (4.5.1)
+  - AgoraRtcEngine_iOS/FaceCapture (4.5.1)
+  - AgoraRtcEngine_iOS/FaceDetection (4.5.1)
+  - AgoraRtcEngine_iOS/LipSync (4.5.1)
+  - AgoraRtcEngine_iOS/ReplayKit (4.5.1)
+  - AgoraRtcEngine_iOS/RtcBasic (4.5.1):
+    - AgoraInfra_iOS (= 1.2.13)
+  - AgoraRtcEngine_iOS/SpatialAudio (4.5.1)
+  - AgoraRtcEngine_iOS/VideoAv1CodecDec (4.5.1)
+  - AgoraRtcEngine_iOS/VideoAv1CodecEnc (4.5.1)
+  - AgoraRtcEngine_iOS/VideoCodecDec (4.5.1)
+  - AgoraRtcEngine_iOS/VideoCodecEnc (4.5.1)
+  - AgoraRtcEngine_iOS/VirtualBackground (4.5.1)
+  - AgoraRtcEngine_iOS/VQA (4.5.1)
+  - Flutter (1.0.0)
+  - flutter_localization (0.0.1):
+    - Flutter
+  - fluttertoast (0.0.2):
+    - Flutter
+    - Toast
+  - image_picker_ios (0.0.1):
+    - Flutter
+  - iris_method_channel (0.0.1):
+    - Flutter
+  - path_provider_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - permission_handler_apple (9.3.0):
+    - Flutter
+  - share_plus (0.0.1):
+    - Flutter
+  - shared_preferences_foundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+  - sqflite (0.0.3):
+    - Flutter
+    - FlutterMacOS
+  - Toast (4.1.1)
+  - video_compress (0.3.0):
+    - Flutter
+  - video_player_avfoundation (0.0.1):
+    - Flutter
+    - FlutterMacOS
+
+DEPENDENCIES:
+  - agora_rtc_engine (from `.symlinks/plugins/agora_rtc_engine/ios`)
+  - Flutter (from `Flutter`)
+  - flutter_localization (from `.symlinks/plugins/flutter_localization/ios`)
+  - fluttertoast (from `.symlinks/plugins/fluttertoast/ios`)
+  - image_picker_ios (from `.symlinks/plugins/image_picker_ios/ios`)
+  - iris_method_channel (from `.symlinks/plugins/iris_method_channel/ios`)
+  - path_provider_foundation (from `.symlinks/plugins/path_provider_foundation/darwin`)
+  - permission_handler_apple (from `.symlinks/plugins/permission_handler_apple/ios`)
+  - share_plus (from `.symlinks/plugins/share_plus/ios`)
+  - shared_preferences_foundation (from `.symlinks/plugins/shared_preferences_foundation/darwin`)
+  - sqflite (from `.symlinks/plugins/sqflite/darwin`)
+  - video_compress (from `.symlinks/plugins/video_compress/ios`)
+  - video_player_avfoundation (from `.symlinks/plugins/video_player_avfoundation/darwin`)
+
+SPEC REPOS:
+  trunk:
+    - AgoraInfra_iOS
+    - AgoraIrisRTC_iOS
+    - AgoraRtcEngine_iOS
+    - Toast
+
+EXTERNAL SOURCES:
+  agora_rtc_engine:
+    :path: ".symlinks/plugins/agora_rtc_engine/ios"
+  Flutter:
+    :path: Flutter
+  flutter_localization:
+    :path: ".symlinks/plugins/flutter_localization/ios"
+  fluttertoast:
+    :path: ".symlinks/plugins/fluttertoast/ios"
+  image_picker_ios:
+    :path: ".symlinks/plugins/image_picker_ios/ios"
+  iris_method_channel:
+    :path: ".symlinks/plugins/iris_method_channel/ios"
+  path_provider_foundation:
+    :path: ".symlinks/plugins/path_provider_foundation/darwin"
+  permission_handler_apple:
+    :path: ".symlinks/plugins/permission_handler_apple/ios"
+  share_plus:
+    :path: ".symlinks/plugins/share_plus/ios"
+  shared_preferences_foundation:
+    :path: ".symlinks/plugins/shared_preferences_foundation/darwin"
+  sqflite:
+    :path: ".symlinks/plugins/sqflite/darwin"
+  video_compress:
+    :path: ".symlinks/plugins/video_compress/ios"
+  video_player_avfoundation:
+    :path: ".symlinks/plugins/video_player_avfoundation/darwin"
+
+SPEC CHECKSUMS:
+  agora_rtc_engine: 7434787c0b5284d803c31c726562b8399b8c1744
+  AgoraInfra_iOS: 65e11a2183ab7836258768868d06058c22701b13
+  AgoraIrisRTC_iOS: dd3d957c25be6bd2b2a5d03fe706ebe8a46909f0
+  AgoraRtcEngine_iOS: 5092a058c7b2842db39d8ca614d451af6f84969a
+  Flutter: e0871f40cf51350855a761d2e70bf5af5b9b5de7
+  flutter_localization: 72299fb6cb4e51cae587bd953ed0b958040b71e6
+  fluttertoast: eaafdac812d1d69931004e881c87a8643b1c9111
+  image_picker_ios: 7fe1ff8e34c1790d6fff70a32484959f563a928a
+  iris_method_channel: b9db2053dac3dc84e256c8792eff6f11323a53bd
+  path_provider_foundation: 080d55be775b7414fd5a5ef3ac137b97b097e564
+  permission_handler_apple: 4ed2196e43d0651e8ff7ca3483a069d469701f2d
+  share_plus: 50da8cb520a8f0f65671c6c6a99b3617ed10a58a
+  shared_preferences_foundation: 9e1978ff2562383bd5676f64ec4e9aa8fa06a6f7
+  sqflite: c35dad70033b8862124f8337cc994a809fcd9fa3
+  Toast: 1f5ea13423a1e6674c4abdac5be53587ae481c4e
+  video_compress: f2133a07762889d67f0711ac831faa26f956980e
+  video_player_avfoundation: 2cef49524dd1f16c5300b9cd6efd9611ce03639b
+
+PODFILE CHECKSUM: 819463e6a0290f5a72f145ba7cde16e8b6ef0796
+
+COCOAPODS: 1.16.2
